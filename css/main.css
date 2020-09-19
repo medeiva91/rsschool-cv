@@ -37,3 +37,7 @@ ul {
 .avatar {
   height: 160px;
 }
+
+.hidden {
+  visibility: hidden;
+}
