@@ -1,0 +1,39 @@
+#contacts {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 20px;
+  border-left: 1px ridge black;
+}
+
+.title {
+  text-align: center;
+  padding-top: 25px;
+}
+
+.main {
+  border-top: 1px ridge black;
+  text-align: left;
+  font-size: 20px;
+}
+
+.center {
+  text-align: center;
+}
+
+ul {
+  padding-left: 40px;
+  /*padding-top: 20px;*/
+  /*font-size: 18px;*/
+}
+
+.row {
+  margin-top: 20px;
+}
+
+.works {
+  padding-left: 40px;
+}
+
+.avatar {
+  height: 160px;
+}
